@@ -1,4 +1,16 @@
 const navbar = document.querySelector('.navbar');
+const homeLogo = document.querySelector('.logo-btn');
+if (homeLogo) {
+  homeLogo.addEventListener('click', event => {
+    if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
+    event.preventDefault();
+    // Reload the page without a section hash so the intro starts at the top.
+    window.history.replaceState(null, '', window.location.pathname + window.location.search);
+    window.history.scrollRestoration = 'manual';
+    window.scrollTo(0, 0);
+    window.location.reload();
+  });
+}
 const menuToggle = document.querySelector('.menu-toggle');
 const navPanel = document.querySelector('.nav-panel');
 const menuBackdrop = document.querySelector('.menu-backdrop');
