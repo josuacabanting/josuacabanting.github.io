@@ -1,0 +1,304 @@
+[
+  {
+    "title": "NetGain Certified Professional (NGCP) v12",
+    "issuer": "NetGain Systems",
+    "kind": "Certification",
+    "date": "February 13, 2026",
+    "topic": "Network monitoring",
+    "file": "Netgain Systems/NetGain Systems Certified Professional - Josua.pdf",
+    "status": "",
+    "logo": "Netgain Systems/netgain-logo.png"
+  },
+  {
+    "title": "NetGain Certified Associate (NGCA) v12",
+    "issuer": "NetGain Systems",
+    "kind": "Certification",
+    "date": "February 12, 2026",
+    "topic": "Network monitoring",
+    "file": "Netgain Systems/NetGain Systems Certified Associate - Josua.pdf",
+    "status": "",
+    "logo": "Netgain Systems/netgain-logo.png"
+  },
+  {
+    "title": "NinjaOne Certified Technician",
+    "issuer": "NinjaOne",
+    "kind": "Certification",
+    "date": "October 7, 2026",
+    "topic": "Endpoint management",
+    "file": "NINJAONE/ninjaone_certified_technician.png",
+    "status": "Expires October 7, 2027",
+    "badge": "NINJAONE/badge_technician.png"
+  },
+  {
+    "title": "Level 3: NinjaOne Certified Channel Partner SE Expert",
+    "issuer": "NinjaOne",
+    "kind": "Certification",
+    "date": "September 26, 2025",
+    "topic": "Solutions engineering",
+    "file": "NINJAONE/level_3_ninjaone_certified_channel_partner_se_expert.png",
+    "status": "Expires September 26, 2027",
+    "level": 3,
+    "badge": "NINJAONE/badge_se_expert.png"
+  },
+  {
+    "title": "Level 2: NinjaOne Certified Channel Partner SE Pro",
+    "issuer": "NinjaOne",
+    "kind": "Certification",
+    "date": "September 5, 2025",
+    "topic": "Solutions engineering",
+    "file": "NINJAONE/level_2_ninjaone_certified_channel_partner_se_pro.png",
+    "status": "Expires September 5, 2027",
+    "level": 2,
+    "badge": "NINJAONE/badge_se_pro.png"
+  },
+  {
+    "title": "Level 2: NinjaOne Certified Channel Partner Sales Pro",
+    "issuer": "NinjaOne",
+    "kind": "Certification",
+    "date": "July 29, 2025",
+    "topic": "Partner sales",
+    "file": "NINJAONE/level_2_ninjaone_certified_channel_partner_sales_pro.png",
+    "status": "Expires July 28, 2027",
+    "level": 2,
+    "badge": "NINJAONE/badge_sales_pro.png"
+  },
+  {
+    "title": "Level 1: NinjaOne Certified Channel Partner SE Associate",
+    "issuer": "NinjaOne",
+    "kind": "Certification",
+    "date": "August 11, 2025",
+    "topic": "Solutions engineering",
+    "file": "NINJAONE/level_1_ninjaone_certified_channel_partner_se_associate.png",
+    "status": "Expires August 11, 2027",
+    "level": 1,
+    "badge": "NINJAONE/badge_se_associate.png"
+  },
+  {
+    "title": "Level 1: NinjaOne Certified Channel Partner Sales Associate",
+    "issuer": "NinjaOne",
+    "kind": "Certification",
+    "date": "July 28, 2025",
+    "topic": "Partner sales",
+    "file": "NINJAONE/level_1_ninjaone_certified_channel_partner_sales_associate.png",
+    "status": "Expires July 28, 2027",
+    "level": 1,
+    "badge": "NINJAONE/badge_sales_associate.png"
+  },
+  {
+    "title": "Certified Cybersecurity Professional (CCP)",
+    "issuer": "Appkademiya",
+    "kind": "Certification",
+    "date": "August 31, 2026",
+    "topic": "Cybersecurity",
+    "file": "Appkademiya/Certified Cybersecurity Professional (CCP).pdf",
+    "status": ""
+  },
+  {
+    "title": "NetOps Certified Engineer (NTO-101)",
+    "issuer": "Appkademiya",
+    "kind": "Certification",
+    "date": "September 23, 2026",
+    "topic": "Network operations",
+    "file": "Appkademiya/NetOps Certified Engineer (NTO-101).pdf",
+    "status": ""
+  },
+  {
+    "title": "Advanced Web Application Scanning",
+    "issuer": "Tenable",
+    "kind": "Training",
+    "date": "August 21, 2025",
+    "topic": "Web application security",
+    "file": "TENABLE/Tenable Edge_2020_Advance Web Application Scanning.pdf",
+    "status": ""
+  },
+  {
+    "title": "Cybersecurity Essentials (LFC108)",
+    "issuer": "The Linux Foundation",
+    "kind": "Course",
+    "date": "October 28, 2025",
+    "topic": "Cybersecurity",
+    "file": "LINUX FOUNDATION/Cybersecurity Essentials LFC108.pdf",
+    "status": ""
+  },
+  {
+    "title": "Introduction to Linux (LFS101)",
+    "issuer": "The Linux Foundation",
+    "kind": "Course",
+    "date": "August 24, 2025",
+    "topic": "Linux",
+    "file": "LINUX FOUNDATION/Introduction to Linux (LFS101).pdf",
+    "status": ""
+  },
+  {
+    "title": "Network Addressing and Basic Troubleshooting",
+    "issuer": "Cisco Networking Academy / DICT-ITU DTC Initiative",
+    "kind": "Course",
+    "date": "May 18, 2025",
+    "topic": "Networking",
+    "file": "CISCO NETWORKING ACADEMY/Network Addressing and Basic Troubleshooting Certificate.pdf",
+    "status": "",
+    "badge": "CISCO NETWORKING ACADEMY BADGE/Network Addressing and Basic Troubleshooting Badge.png"
+  },
+  {
+    "title": "Networking Basics",
+    "issuer": "Cisco Networking Academy",
+    "kind": "Course",
+    "date": "May 20, 2025",
+    "topic": "Networking",
+    "file": "CISCO NETWORKING ACADEMY/Networking Basics Certificate.pdf",
+    "status": "",
+    "badge": "CISCO NETWORKING ACADEMY BADGE/Networking Basics Badge.png"
+  },
+  {
+    "title": "Operating Systems Basics",
+    "issuer": "Cisco Networking Academy",
+    "kind": "Course",
+    "date": "April 22, 2025",
+    "topic": "Operating systems",
+    "file": "CISCO NETWORKING ACADEMY/Operating System Basics.pdf",
+    "status": "",
+    "badge": "CISCO NETWORKING ACADEMY BADGE/Operating System Basics Badge.png"
+  },
+  {
+    "title": "Computer Hardware Basics",
+    "issuer": "Cisco Networking Academy",
+    "kind": "Course",
+    "date": "November 11, 2023",
+    "topic": "Hardware",
+    "file": "CISCO NETWORKING ACADEMY/Computer Hardware Basics.pdf",
+    "status": "",
+    "badge": "CISCO NETWORKING ACADEMY BADGE/Computer Hardware Basics.png"
+  },
+  {
+    "title": "HTML Essentials",
+    "issuer": "Cisco Networking Academy",
+    "kind": "Course",
+    "date": "May 6, 2025",
+    "topic": "Web development",
+    "file": "CISCO NETWORKING ACADEMY/HTML Essentials Certificate.pdf",
+    "status": "",
+    "badge": "CISCO NETWORKING ACADEMY BADGE/HTML Essentials Badge.png"
+  },
+  {
+    "title": "Introduction to Data Science",
+    "issuer": "Cisco Networking Academy",
+    "kind": "Course",
+    "date": "November 11, 2023",
+    "topic": "Data science",
+    "file": "CISCO NETWORKING ACADEMY/Introduction to Data Science.pdf",
+    "status": "",
+    "badge": "CISCO NETWORKING ACADEMY BADGE/Introduction to Data Science-Badge.png"
+  },
+  {
+    "title": "Introduction to Modern AI",
+    "issuer": "Cisco Networking Academy",
+    "kind": "Course",
+    "date": "May 9, 2025",
+    "topic": "Artificial intelligence",
+    "file": "CISCO NETWORKING ACADEMY/Introduction to Modern AI Certficate.pdf",
+    "status": "",
+    "badge": "CISCO NETWORKING ACADEMY BADGE/Introduction to Modern AI Badge.png"
+  },
+  {
+    "title": "Cyber 101",
+    "issuer": "DICT Region IV-A / Institute of Computer Engineers of the Philippines",
+    "kind": "Webinar",
+    "date": "April 24, 2025",
+    "topic": "Cybersecurity",
+    "file": "DICT/JOSUA O. CABANTING Certificate of Attendance (3).pdf",
+    "status": ""
+  },
+  {
+    "title": "Cyber Tools",
+    "issuer": "DICT Region IV-A / Institute of Computer Engineers of the Philippines",
+    "kind": "Webinar",
+    "date": "May 15, 2025",
+    "topic": "Cybersecurity",
+    "file": "DICT/JOSUA O. CABANTING Certificate of Attendance (4).pdf",
+    "status": ""
+  },
+  {
+    "title": "Cloud Essentials",
+    "issuer": "BlackStride Cyber",
+    "kind": "Webinar",
+    "date": "June 23, 2026",
+    "topic": "Cloud fundamentals",
+    "file": "BlackStride Cyber/03acdc57-ab95-486a-ab33-80453e86aa52.pdf",
+    "status": ""
+  },
+  {
+    "title": "Introduction to Microsoft Entra",
+    "issuer": "BlackStride Cyber",
+    "kind": "Webinar",
+    "date": "July 3, 2026",
+    "topic": "Identity and access",
+    "file": "BlackStride Cyber/73d45cd3-bbdc-4e4d-9cb0-349bd673ec4b.pdf",
+    "status": ""
+  },
+  {
+    "title": "Digital Forensics in Action: Investigating a Real Cybercrime Case",
+    "issuer": "Xaltius / Adroit",
+    "kind": "Workshop",
+    "date": "November 8, 2025",
+    "topic": "Digital forensics",
+    "file": "XALTIUS-ADROIT/Digital Forensics in Action Investigating a Real Cybercrime Case.pdf",
+    "status": ""
+  },
+  {
+    "title": "Rap Beef: Cybersecurity Investigation",
+    "issuer": "KC7 Foundation",
+    "kind": "Course",
+    "date": "October 28, 2025",
+    "topic": "Threat detection",
+    "file": "KC7/KC7Foundation-Rap Beef.pdf",
+    "status": ""
+  },
+  {
+    "title": "CyberHeist: Redefining Human-Centered Security in a Zero Trust Hybrid World",
+    "issuer": "Globe Business",
+    "kind": "Webinar",
+    "date": "July 25, 2025",
+    "topic": "Zero trust",
+    "file": "WEBINARS/Cabanting, Josua_Globe Business.pdf",
+    "status": ""
+  },
+  {
+    "title": "Axis Network Audio Essentials",
+    "issuer": "Axis Communications",
+    "kind": "Course",
+    "date": "December 4, 2025",
+    "topic": "Network audio",
+    "file": "AXIS/AXIS NETWORK AUDIOI ESSENTIALS.pdf",
+    "status": ""
+  },
+  {
+    "title": "Introduction to Generative AI",
+    "issuer": "Google Cloud",
+    "kind": "Completion badge",
+    "date": "",
+    "topic": "Artificial intelligence",
+    "file": "GOOGLE CLOUD SKILLS/Introduction to Generative AI.png",
+    "status": "",
+    "badge": "GOOGLE CLOUD SKILLS/Introduction to Generative AI.png"
+  },
+  {
+    "title": "Introduction to Large Language Models",
+    "issuer": "Google Cloud",
+    "kind": "Completion badge",
+    "date": "",
+    "topic": "Artificial intelligence",
+    "file": "GOOGLE CLOUD SKILLS/Introduction to Large Language Models.png",
+    "status": "",
+    "badge": "GOOGLE CLOUD SKILLS/Introduction to Large Language Models.png"
+  },
+  {
+    "title": "Introduction to Responsible AI",
+    "issuer": "Google Cloud",
+    "kind": "Completion badge",
+    "date": "",
+    "topic": "Responsible AI",
+    "file": "GOOGLE CLOUD SKILLS/Introduction to Responsible AI.png",
+    "status": "",
+    "badge": "GOOGLE CLOUD SKILLS/Introduction to Responsible AI.png"
+  }
+]
