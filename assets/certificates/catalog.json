@@ -38,7 +38,8 @@
     "file": "NINJAONE/level_3_ninjaone_certified_channel_partner_se_expert.png",
     "status": "Expires September 26, 2027",
     "level": 3,
-    "badge": "NINJAONE/badge_se_expert.png"
+    "badge": "NINJAONE/badge_se_expert.png",
+    "group": "ninjaone-partner-levels"
   },
   {
     "title": "Level 2: NinjaOne Certified Channel Partner SE Pro",
@@ -49,7 +50,8 @@
     "file": "NINJAONE/level_2_ninjaone_certified_channel_partner_se_pro.png",
     "status": "Expires September 5, 2027",
     "level": 2,
-    "badge": "NINJAONE/badge_se_pro.png"
+    "badge": "NINJAONE/badge_se_pro.png",
+    "group": "ninjaone-partner-levels"
   },
   {
     "title": "Level 2: NinjaOne Certified Channel Partner Sales Pro",
@@ -60,7 +62,8 @@
     "file": "NINJAONE/level_2_ninjaone_certified_channel_partner_sales_pro.png",
     "status": "Expires July 28, 2027",
     "level": 2,
-    "badge": "NINJAONE/badge_sales_pro.png"
+    "badge": "NINJAONE/badge_sales_pro.png",
+    "group": "ninjaone-partner-levels"
   },
   {
     "title": "Level 1: NinjaOne Certified Channel Partner SE Associate",
@@ -71,7 +74,8 @@
     "file": "NINJAONE/level_1_ninjaone_certified_channel_partner_se_associate.png",
     "status": "Expires August 11, 2027",
     "level": 1,
-    "badge": "NINJAONE/badge_se_associate.png"
+    "badge": "NINJAONE/badge_se_associate.png",
+    "group": "ninjaone-partner-levels"
   },
   {
     "title": "Level 1: NinjaOne Certified Channel Partner Sales Associate",
@@ -82,7 +86,8 @@
     "file": "NINJAONE/level_1_ninjaone_certified_channel_partner_sales_associate.png",
     "status": "Expires July 28, 2027",
     "level": 1,
-    "badge": "NINJAONE/badge_sales_associate.png"
+    "badge": "NINJAONE/badge_sales_associate.png",
+    "group": "ninjaone-partner-levels"
   },
   {
     "title": "Certified Cybersecurity Professional (CCP)",
@@ -91,7 +96,8 @@
     "date": "August 31, 2026",
     "topic": "Cybersecurity",
     "file": "Appkademiya/Certified Cybersecurity Professional (CCP).pdf",
-    "status": ""
+    "status": "",
+    "badge": "Appkademiya/badge-ccp.png"
   },
   {
     "title": "NetOps Certified Engineer (NTO-101)",
@@ -100,7 +106,8 @@
     "date": "September 23, 2026",
     "topic": "Network operations",
     "file": "Appkademiya/NetOps Certified Engineer (NTO-101).pdf",
-    "status": ""
+    "status": "",
+    "badge": "Appkademiya/badge-netops.png"
   },
   {
     "title": "Advanced Web Application Scanning",
@@ -109,7 +116,8 @@
     "date": "August 21, 2025",
     "topic": "Web application security",
     "file": "TENABLE/Tenable Edge_2020_Advance Web Application Scanning.pdf",
-    "status": ""
+    "status": "",
+    "badge": "TENABLE/badge-web-application-scanning.png"
   },
   {
     "title": "Cybersecurity Essentials (LFC108)",
@@ -118,7 +126,8 @@
     "date": "October 28, 2025",
     "topic": "Cybersecurity",
     "file": "LINUX FOUNDATION/Cybersecurity Essentials LFC108.pdf",
-    "status": ""
+    "status": "",
+    "badge": "LINUX FOUNDATION/badge-lfc108.png"
   },
   {
     "title": "Introduction to Linux (LFS101)",
@@ -127,7 +136,8 @@
     "date": "August 24, 2025",
     "topic": "Linux",
     "file": "LINUX FOUNDATION/Introduction to Linux (LFS101).pdf",
-    "status": ""
+    "status": "",
+    "badge": "LINUX FOUNDATION/badge-lfs101.png"
   },
   {
     "title": "Network Addressing and Basic Troubleshooting",
@@ -137,7 +147,8 @@
     "topic": "Networking",
     "file": "CISCO NETWORKING ACADEMY/Network Addressing and Basic Troubleshooting Certificate.pdf",
     "status": "",
-    "badge": "CISCO NETWORKING ACADEMY BADGE/Network Addressing and Basic Troubleshooting Badge.png"
+    "badge": "CISCO NETWORKING ACADEMY BADGE/Network Addressing and Basic Troubleshooting Badge.png",
+    "group": "cisco-netacad"
   },
   {
     "title": "Networking Basics",
@@ -147,7 +158,8 @@
     "topic": "Networking",
     "file": "CISCO NETWORKING ACADEMY/Networking Basics Certificate.pdf",
     "status": "",
-    "badge": "CISCO NETWORKING ACADEMY BADGE/Networking Basics Badge.png"
+    "badge": "CISCO NETWORKING ACADEMY BADGE/Networking Basics Badge.png",
+    "group": "cisco-netacad"
   },
   {
     "title": "Operating Systems Basics",
@@ -157,7 +169,8 @@
     "topic": "Operating systems",
     "file": "CISCO NETWORKING ACADEMY/Operating System Basics.pdf",
     "status": "",
-    "badge": "CISCO NETWORKING ACADEMY BADGE/Operating System Basics Badge.png"
+    "badge": "CISCO NETWORKING ACADEMY BADGE/Operating System Basics Badge.png",
+    "group": "cisco-netacad"
   },
   {
     "title": "Computer Hardware Basics",
@@ -167,7 +180,8 @@
     "topic": "Hardware",
     "file": "CISCO NETWORKING ACADEMY/Computer Hardware Basics.pdf",
     "status": "",
-    "badge": "CISCO NETWORKING ACADEMY BADGE/Computer Hardware Basics.png"
+    "badge": "CISCO NETWORKING ACADEMY BADGE/Computer Hardware Basics.png",
+    "group": "cisco-netacad"
   },
   {
     "title": "HTML Essentials",
@@ -177,7 +191,8 @@
     "topic": "Web development",
     "file": "CISCO NETWORKING ACADEMY/HTML Essentials Certificate.pdf",
     "status": "",
-    "badge": "CISCO NETWORKING ACADEMY BADGE/HTML Essentials Badge.png"
+    "badge": "CISCO NETWORKING ACADEMY BADGE/HTML Essentials Badge.png",
+    "group": "cisco-netacad"
   },
   {
     "title": "Introduction to Data Science",
@@ -187,7 +202,8 @@
     "topic": "Data science",
     "file": "CISCO NETWORKING ACADEMY/Introduction to Data Science.pdf",
     "status": "",
-    "badge": "CISCO NETWORKING ACADEMY BADGE/Introduction to Data Science-Badge.png"
+    "badge": "CISCO NETWORKING ACADEMY BADGE/Introduction to Data Science-Badge.png",
+    "group": "cisco-netacad"
   },
   {
     "title": "Introduction to Modern AI",
@@ -197,7 +213,8 @@
     "topic": "Artificial intelligence",
     "file": "CISCO NETWORKING ACADEMY/Introduction to Modern AI Certficate.pdf",
     "status": "",
-    "badge": "CISCO NETWORKING ACADEMY BADGE/Introduction to Modern AI Badge.png"
+    "badge": "CISCO NETWORKING ACADEMY BADGE/Introduction to Modern AI Badge.png",
+    "group": "cisco-netacad"
   },
   {
     "title": "Cyber 101",
@@ -245,15 +262,6 @@
     "status": ""
   },
   {
-    "title": "Rap Beef: Cybersecurity Investigation",
-    "issuer": "KC7 Foundation",
-    "kind": "Course",
-    "date": "October 28, 2025",
-    "topic": "Threat detection",
-    "file": "KC7/KC7Foundation-Rap Beef.pdf",
-    "status": ""
-  },
-  {
     "title": "CyberHeist: Redefining Human-Centered Security in a Zero Trust Hybrid World",
     "issuer": "Globe Business",
     "kind": "Webinar",
@@ -269,7 +277,8 @@
     "date": "December 4, 2025",
     "topic": "Network audio",
     "file": "AXIS/AXIS NETWORK AUDIOI ESSENTIALS.pdf",
-    "status": ""
+    "status": "",
+    "badge": "AXIS/badge-axis.png"
   },
   {
     "title": "Introduction to Generative AI",

@@ -141,6 +141,11 @@ section { width: calc(100% - 300px); max-width: 1000px; margin: 0 auto; padding:
 .credential-text { min-width: 0; }
 .credential-badge { width: 64px; height: 64px; object-fit: contain; border-radius: 4px; }
 .credential-logo { padding: 5px; background: #fff; }
+.credential-badge-set { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 8px; margin-top: 20px; }
+.credential-badge-set img { width: 100%; height: 44px; object-fit: contain; }
+.credential-detail > .button { margin-bottom: 35px; }
+.credential-detail h1 { font-size: clamp(26px, 4vw, 42px); line-height: 1.2; }
+.credential-detail-intro { margin: 20px 0 40px; font-size: 16px; color: var(--light-slate); }
 .credential-card h3 { font-size: 19px; line-height: 1.35; margin-bottom: 15px; transition: color .2s; }
 .credential-card:hover h3, .credential-card:focus-visible h3, .credential-card:hover .credential-card-kind, .credential-card:focus-visible .credential-card-kind { color: var(--green); }
 .credential-card p { font-size: 15px; line-height: 1.6; color: var(--light-slate); }
@@ -155,6 +160,9 @@ section { width: calc(100% - 300px); max-width: 1000px; margin: 0 auto; padding:
 .contact-title { font-size: clamp(40px, 5vw, 60px); margin-bottom: 22px; }
 .contact-content p { font-size: 17px; }
 .contact-button { margin-top: 45px; }
+.contact-content .contact-phone { margin-top: 20px; font: 14px/1.6 var(--font-mono); }
+.contact-phone a { display: inline-flex; align-items: center; justify-content: center; gap: 10px; min-height: 44px; padding: 8px 12px; color: var(--green); }
+.contact-phone a:hover { text-decoration: underline; text-underline-offset: 4px; }
 footer { padding: 20px 24px 28px; text-align: center; font: 12px/1.8 var(--font-mono); }
 .social-icons, .email-container { position: fixed; bottom: 0; z-index: 20; }
 .social-icons { left: 40px; }
