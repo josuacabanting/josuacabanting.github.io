@@ -14,7 +14,7 @@ if (homeLogo) {
 const menuToggle = document.querySelector('.menu-toggle');
 const navPanel = document.querySelector('.nav-panel');
 const menuBackdrop = document.querySelector('.menu-backdrop');
-const mobileMenu = window.matchMedia('(max-width: 700px)');
+const mobileMenu = window.matchMedia('(max-width: 900px)');
 const pageRegions = [...document.querySelectorAll('main, footer, .social-icons, .email-container')];
 
 // Give the fixed header a compact height and a subtle divider after scrolling.

@@ -223,7 +223,8 @@
     "date": "April 24, 2025",
     "topic": "Cybersecurity",
     "file": "DICT/JOSUA O. CABANTING Certificate of Attendance (3).pdf",
-    "status": ""
+    "status": "",
+    "badge": "DICT/badge-dict.png"
   },
   {
     "title": "Cyber Tools",
@@ -232,7 +233,8 @@
     "date": "May 15, 2025",
     "topic": "Cybersecurity",
     "file": "DICT/JOSUA O. CABANTING Certificate of Attendance (4).pdf",
-    "status": ""
+    "status": "",
+    "badge": "DICT/badge-dict.png"
   },
   {
     "title": "Cloud Essentials",
@@ -241,7 +243,8 @@
     "date": "June 23, 2026",
     "topic": "Cloud fundamentals",
     "file": "BlackStride Cyber/03acdc57-ab95-486a-ab33-80453e86aa52.pdf",
-    "status": ""
+    "status": "",
+    "badge": "BlackStride Cyber/badge-cloud-essentials.png"
   },
   {
     "title": "Introduction to Microsoft Entra",
@@ -250,7 +253,8 @@
     "date": "July 3, 2026",
     "topic": "Identity and access",
     "file": "BlackStride Cyber/73d45cd3-bbdc-4e4d-9cb0-349bd673ec4b.pdf",
-    "status": ""
+    "status": "",
+    "badge": "BlackStride Cyber/badge-microsoft-entra.png"
   },
   {
     "title": "Digital Forensics in Action: Investigating a Real Cybercrime Case",
@@ -259,7 +263,8 @@
     "date": "November 8, 2025",
     "topic": "Digital forensics",
     "file": "XALTIUS-ADROIT/Digital Forensics in Action Investigating a Real Cybercrime Case.pdf",
-    "status": ""
+    "status": "",
+    "logo": "XALTIUS-ADROIT/xaltius-logo.png"
   },
   {
     "title": "CyberHeist: Redefining Human-Centered Security in a Zero Trust Hybrid World",

@@ -231,7 +231,7 @@ footer { padding: 20px 24px 28px; text-align: center; font: 12px/1.8 var(--font-
   .contact-section { padding: 100px 0; }
 }
 /* The enhanced drawer only hides links once JavaScript is ready. */
-@media (max-width: 700px) {
+@media (max-width: 900px) {
   .navbar { height: auto; min-height: 80px; flex-wrap: wrap; }
   .nav-panel { flex: 1; flex-wrap: wrap; justify-content: flex-end; padding: 15px 0; }
   .nav-links { flex-wrap: wrap; justify-content: flex-end; }
@@ -275,7 +275,7 @@ footer { padding: 20px 24px 28px; text-align: center; font: 12px/1.8 var(--font-
   .project-tags { gap: 8px 12px; }
   .skills-list { font-size: 12px; }
 }
-@media (max-width: 700px) and (max-height: 600px) {
+@media (max-width: 900px) and (max-height: 600px) {
   .nav-ready .nav-panel { justify-content: flex-start; padding: 80px 24px 32px; }
 }
 @media (max-width: 360px) {
