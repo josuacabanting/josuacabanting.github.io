@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" fill="none">
+  <title>VMware vSphere</title>
+  <defs>
+    <linearGradient id="green" x1="140" y1="160" x2="780" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9bc74d"/>
+      <stop offset="1" stop-color="#79a53b"/>
+    </linearGradient>
+  </defs>
+  <path d="M350 41h412a94 94 0 0 1 94 94v412a94 94 0 0 1-94 94H644v123a94 94 0 0 1-94 94H138a94 94 0 0 1-94-94V353a94 94 0 0 1 94-94h118V135a94 94 0 0 1 94-94Z" fill="url(#green)"/>
+  <path d="M407 150h296a49 49 0 0 1 49 49v297a49 49 0 0 1-49 49H542v167a49 49 0 0 1-49 49H196a49 49 0 0 1-49-49V416a49 49 0 0 1 49-49h162V199a49 49 0 0 1 49-49Z" fill="#fff"/>
+  <rect x="435" y="235" width="240" height="240" rx="45" fill="#f8c63e"/>
+  <rect x="226" y="451" width="240" height="240" rx="45" fill="#f8c63e"/>
+</svg>

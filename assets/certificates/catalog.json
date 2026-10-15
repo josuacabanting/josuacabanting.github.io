@@ -184,39 +184,6 @@
     "group": "cisco-netacad"
   },
   {
-    "title": "HTML Essentials",
-    "issuer": "Cisco Networking Academy",
-    "kind": "Course",
-    "date": "May 6, 2025",
-    "topic": "Web development",
-    "file": "CISCO NETWORKING ACADEMY/HTML Essentials Certificate.pdf",
-    "status": "",
-    "badge": "CISCO NETWORKING ACADEMY BADGE/HTML Essentials Badge.png",
-    "group": "cisco-netacad"
-  },
-  {
-    "title": "Introduction to Data Science",
-    "issuer": "Cisco Networking Academy",
-    "kind": "Course",
-    "date": "November 11, 2023",
-    "topic": "Data science",
-    "file": "CISCO NETWORKING ACADEMY/Introduction to Data Science.pdf",
-    "status": "",
-    "badge": "CISCO NETWORKING ACADEMY BADGE/Introduction to Data Science-Badge.png",
-    "group": "cisco-netacad"
-  },
-  {
-    "title": "Introduction to Modern AI",
-    "issuer": "Cisco Networking Academy",
-    "kind": "Course",
-    "date": "May 9, 2025",
-    "topic": "Artificial intelligence",
-    "file": "CISCO NETWORKING ACADEMY/Introduction to Modern AI Certficate.pdf",
-    "status": "",
-    "badge": "CISCO NETWORKING ACADEMY BADGE/Introduction to Modern AI Badge.png",
-    "group": "cisco-netacad"
-  },
-  {
     "title": "Cyber 101",
     "issuer": "DICT Region IV-A / Institute of Computer Engineers of the Philippines",
     "kind": "Webinar",
@@ -304,15 +271,5 @@
     "file": "GOOGLE CLOUD SKILLS/Introduction to Large Language Models.png",
     "status": "",
     "badge": "GOOGLE CLOUD SKILLS/Introduction to Large Language Models.png"
-  },
-  {
-    "title": "Introduction to Responsible AI",
-    "issuer": "Google Cloud",
-    "kind": "Completion badge",
-    "date": "",
-    "topic": "Responsible AI",
-    "file": "GOOGLE CLOUD SKILLS/Introduction to Responsible AI.png",
-    "status": "",
-    "badge": "GOOGLE CLOUD SKILLS/Introduction to Responsible AI.png"
   }
 ]

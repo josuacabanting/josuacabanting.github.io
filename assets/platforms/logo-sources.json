@@ -1,0 +1,62 @@
+[
+  {
+    "file": "netgain-official.png",
+    "source": "https://www.netgain-systems.com/attached_assets/Netgain-Logo-White.png",
+    "bytes": 42075
+  },
+  {
+    "file": "tenable-official.svg",
+    "source": "https://www.tenable.com/themes/custom/tenable/images-new/favicons/tenable-favicon.svg",
+    "bytes": 1872
+  },
+  {
+    "file": "ninjaone-official.png",
+    "source": "https://images.ninjaone.com/wp-content/uploads/2024/10/favicon-2024-150x150.png",
+    "bytes": 1102
+  },
+  {
+    "file": "vmware-official.png",
+    "source": "https://www.vmware.com/vm-favicon-96x96.png",
+    "bytes": 3199
+  },
+  {
+    "file": "linux-official.png",
+    "source": "https://www.kernel.org/theme/images/logos/favicon.png",
+    "bytes": 3762
+  },
+  {
+    "file": "grafana-official.svg",
+    "source": "https://grafana.com/static/img/menu/grafana2.svg",
+    "bytes": 9435
+  },
+  {
+    "file": "wireshark-official.png",
+    "source": "https://www.wireshark.org/favicon.ico",
+    "bytes": 5430
+  },
+  {
+    "file": "claude-official.svg",
+    "source": "https://claude.com/",
+    "note": "Inline header logo extracted intact; currentColor resolved for dark background."
+  },
+  {
+    "file": "tenable-official.svg",
+    "source": "https://www.tenable.com/",
+    "note": "Inline header logo extracted intact; currentColor resolved for dark background."
+  },
+  {
+    "file": "openai-official.svg",
+    "source": "https://raw.githubusercontent.com/openai/openai-agents-python/main/docs/assets/logo.svg",
+    "note": "Official white OpenAI mark, displayed beside Codex."
+  },
+  {
+    "file": "liveaction.svg",
+    "source": "Previously saved transparent LiveAction logo",
+    "note": "Retained existing asset; direct vendor downloads returned an access block."
+  },
+  {
+    "file": "liveaction-emblem.svg",
+    "source": "Existing LiveAction vector emblem; appearance selected from user-provided reference.",
+    "note": "Isolated emblem from existing vector, set reference blue, transparent background."
+  }
+]
