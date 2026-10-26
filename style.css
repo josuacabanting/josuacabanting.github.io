@@ -110,7 +110,7 @@ section { width: calc(100% - 300px); max-width: 1000px; margin: 0 auto; padding:
 .about-content .image { padding-top: 5px; }
 .img-wrapper { position: relative; isolation: isolate; max-width: 300px; margin: 0 auto; border-radius: 4px; background: var(--green); }
 .img-wrapper::after { content: ''; position: absolute; inset: 18px -18px -18px 18px; border: 2px solid var(--green); border-radius: 4px; z-index: -1; transition: transform .2s; }
-.img-wrapper img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 4px; filter: grayscale(100%); opacity: .8; mix-blend-mode: multiply; transition: filter .2s, opacity .2s; }
+.img-wrapper img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 4px; filter: none; opacity: 1; mix-blend-mode: normal; }
 .img-wrapper:hover img { filter: none; opacity: 1; mix-blend-mode: normal; }
 .img-wrapper:hover::after { transform: translate(-4px,-4px); }
 
@@ -136,15 +136,21 @@ section { width: calc(100% - 300px); max-width: 1000px; margin: 0 auto; padding:
 .project-art { grid-column: 1 / 8; grid-row: 1; min-height: 310px; border-radius: 4px; display: flex; flex-direction: column; align-items: center; justify-content: center; background: linear-gradient(135deg, #12323e, var(--light-navy)); color: var(--green); padding: 35px; }
 .project-art svg { width: 240px; opacity: .65; }
 .project-art span { margin-top: 18px; font: 12px var(--font-mono); opacity: .7; }
+.project-lab-picture { padding: 0; min-height: 0; overflow: hidden; background: var(--light-navy); }
+.project-lab-picture img { width: 100%; height: auto; display: block; }
 .project-screenshot { position: relative; min-height: 0; padding: 0; overflow: hidden; background: var(--green); box-shadow: 0 10px 30px -15px #020c1b; }
 .project-screenshot::after { content: ''; position: absolute; inset: 0; background: rgba(10,25,47,.4); pointer-events: none; transition: opacity .25s; }
 .project-screenshot img { width: 100%; height: auto; aspect-ratio: 8 / 5; object-fit: cover; object-position: left top; filter: grayscale(100%) contrast(1.05); mix-blend-mode: multiply; transition: filter .25s; }
+.project-lab-picture.project-screenshot img { aspect-ratio: auto; }
 .project-screenshot:hover img, .project-screenshot:focus-visible img { filter: none; mix-blend-mode: normal; }
 .project-screenshot:hover::after, .project-screenshot:focus-visible::after { opacity: 0; }
 .project-content { grid-column: 7 / -1; grid-row: 1; position: relative; text-align: right; z-index: 1; }
 .project-eyebrow { color: var(--green); font: 13px/1.5 var(--font-mono); margin-bottom: 10px; }
 .project-content h3 { font-size: 24px; line-height: 1.1; letter-spacing: -.5px; margin-bottom: 25px; }
-.featured-project--inventory .project-content h3 { font-size: 20px; line-height: 1.3; letter-spacing: -.3px; margin-left: calc(16.6667% + 20px); }
+.featured-project--inventory .project-content h3 { font-size: 20px; line-height: 1.3; letter-spacing: -.3px; margin-left: 0; }
+@media (min-width: 769px) {
+  .featured-project--inventory:nth-of-type(even) .project-content h3 { max-width: calc(83.3333% - 20px); }
+}
 .project-description { padding: 25px; background: var(--light-navy); border-radius: 4px; color: var(--light-slate); box-shadow: 0 10px 30px -15px #020c1b; font-size: 16px; line-height: 1.5; }
 .project-tags { display: flex; justify-content: flex-end; flex-wrap: wrap; gap: 10px 18px; list-style: none; margin-top: 25px; font: 13px/1.5 var(--font-mono); color: var(--light-slate); }
 .featured-project:nth-of-type(even) .project-art { grid-column: 6 / -1; }
@@ -250,6 +256,12 @@ footer { padding: 20px 24px 28px; text-align: center; font: 12px/1.8 var(--font-
   .project-links { justify-content: flex-start; }
   .featured-project { margin-bottom: 40px; background: var(--light-navy); border-radius: 4px; }
   .featured-project--inventory { display: block; overflow: hidden; }
+  .featured-project--lab { display: block; overflow: hidden; }
+  .featured-project--lab .project-lab-picture { min-height: 0; opacity: 1; border-radius: 4px 4px 0 0; }
+  .featured-project--portfolio { display: block; overflow: hidden; }
+  .featured-project--portfolio .project-lab-picture { min-height: 0; opacity: 1; border-radius: 4px 4px 0 0; }
+  .project-lab-picture.project-screenshot img { filter: none; mix-blend-mode: normal; }
+  .project-lab-picture.project-screenshot::after { display: none; }
   .featured-project--inventory .project-screenshot { min-height: 0; opacity: 1; border-radius: 4px 4px 0 0; }
   .featured-project--inventory .project-screenshot img { aspect-ratio: auto; filter: none; mix-blend-mode: normal; }
   .featured-project--inventory .project-screenshot::after { display: none; }
