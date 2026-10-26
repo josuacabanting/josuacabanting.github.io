@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+  <title>Josua Cabanting web portfolio preview</title>
+  <defs>
+    <linearGradient id="canvas" x2="1" y2="1"><stop stop-color="#0a192f"/><stop offset="1" stop-color="#10243e"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#64ffda" stop-opacity=".08"/><stop offset="1" stop-color="#64ffda" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1440" height="900" rx="16" fill="#17263c"/>
+  <path d="M0 50h1440v834a16 16 0 0 1-16 16H16a16 16 0 0 1-16-16Z" fill="url(#canvas)"/>
+  <g fill="#52617a"><circle cx="26" cy="25" r="6"/><circle cx="47" cy="25" r="6"/><circle cx="68" cy="25" r="6"/></g>
+  <rect x="480" y="12" width="480" height="26" rx="7" fill="#0a192f"/>
+  <text x="720" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#a8b2d1">josuacabanting.github.io</text>
+  <circle cx="1090" cy="440" r="420" fill="url(#glow)"/>
+  <g transform="translate(64 88)" fill="none" stroke="#64ffda" stroke-width="3"><path d="m24 0 24 14v28L24 56 0 42V14Z"/><text x="24" y="37" text-anchor="middle" fill="#64ffda" stroke="none" font-family="Arial,sans-serif" font-size="27">J</text></g>
+  <g font-family="Consolas,monospace" font-size="14" fill="#ccd6f6">
+    <text x="653" y="120"><tspan fill="#64ffda">01.</tspan> About</text><text x="780" y="120"><tspan fill="#64ffda">02.</tspan> Experience</text><text x="961" y="120"><tspan fill="#64ffda">03.</tspan> Work</text><text x="1082" y="120"><tspan fill="#64ffda">04.</tspan> Contact</text>
+    <rect x="1248" y="92" width="112" height="43" rx="4" fill="none" stroke="#64ffda"/><text x="1277" y="119" fill="#64ffda">Resume</text>
+  </g>
+  <text x="164" y="286" font-family="Consolas,monospace" font-size="22" fill="#64ffda">Hi, my name is</text>
+  <g font-family="Arial,sans-serif" font-weight="700"><text x="160" y="393" font-size="83" fill="#ccd6f6">Josua Cabanting.</text><text x="160" y="484" font-size="65" fill="#8892b0">I Support and Secure Networks.</text></g>
+  <g font-family="Arial,sans-serif" font-size="22" fill="#8892b0">
+    <text x="164" y="554">Computer Engineer and Technical Support Engineer focused on</text>
+    <text x="164" y="589">network monitoring, infrastructure performance, and cybersecurity.</text>
+    <text x="164" y="637" fill="#64ffda">NetGain Systems · Tenable · NinjaOne · LiveAction</text>
+  </g>
+  <rect x="164" y="692" width="224" height="64" rx="4" fill="none" stroke="#64ffda" stroke-width="1.5"/>
+  <text x="276" y="731" text-anchor="middle" font-family="Consolas,monospace" font-size="18" fill="#64ffda">Explore my work</text>
+  <g stroke="#8892b0" fill="none" stroke-width="1.5"><path d="M72 780v120M1368 780v120"/><rect x="62" y="684" width="20" height="20" rx="5"/><circle cx="72" cy="694" r="5"/></g>
+  <text x="64" y="655" fill="#8892b0" font-family="Arial,sans-serif" font-size="22" font-weight="700">in</text>
+</svg>
